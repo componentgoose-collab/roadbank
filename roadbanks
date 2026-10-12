@@ -2,7 +2,7 @@ local response = request({
     Url = "https://fah.flippingeasy6767.workers.dev/",
     Method = "GET",
     Headers = {
-        ["X-Simpleware-Loader"] = "1"
+        ["beta-v1-gng"] = "1"
     }
 })
 
