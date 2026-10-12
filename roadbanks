@@ -1,5 +1,5 @@
 local response = request({
-    Url = "https://fah.flippingeasy6767.workers.dev",
+    Url = "https://fah.flippingeasy6767.workers.dev/",
     Method = "GET",
     Headers = {
         ["beta-v1-gng"] = "1"
